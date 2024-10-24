@@ -31,7 +31,7 @@ Backup your site completely before proceeding.
 To install a WordPress Plugin manually:
 
 * Download your WordPress Plugin to your desktop.
-    * Download from [GitHub](https://github.com/tomtaozhou/upod-plugin)
+    * Download from [GitHub](https://github.com/tomtaozhou/wp-python-runner-plugin)
 * If downloaded as a zip archive, extract the Plugin folder to your desktop.
 * With your FTP program, upload the Plugin folder to the `wp-content/plugins` folder in your WordPress directory online.
 * Go to [Plugins screen](https://codex.wordpress.org/Administration_Screens#Plugins) and find the newly uploaded Plugin in the list.
